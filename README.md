@@ -1,3 +1,4 @@
+
 # DoAn_Web1
 
 
@@ -64,3 +65,6 @@ Admin: Đơn hàng
 
 Admin: Người dùng
 ![Trang chủ](./screenshots/Screenshot_12.png)
+=======
+# Phone-sales-website
+>>>>>>> 8f6ffd1c61d0c7aa3c72a0d5b74553688a5557d8
